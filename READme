@@ -1,0 +1,46 @@
+# University Course Management System
+
+A React-based University Course Management System developed using React, Context API, React Router, and localStorage.
+
+## Features
+
+* Add and delete students
+* Add and delete courses
+* Enroll students into courses
+* View all enrollments
+* Student detail page
+* Search students
+* Prevent duplicate enrollments
+* Responsive user interface
+* localStorage data persistence
+
+## Technologies Used
+
+* React + Vite
+* React Router DOM
+* Context API
+* JavaScript
+* CSS
+
+## Project Structure
+
+```bash
+src/
+├── components/
+├── context/
+├── pages/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Author
+
+Created by Maira Tariq
